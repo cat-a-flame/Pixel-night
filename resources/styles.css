@@ -1,0 +1,59 @@
+.background {
+  viewport-fill: #000000;
+}
+
+#hour {
+  font-size: 130;
+  font-family: Tungsten-Medium;
+  text-length: 32;
+  text-anchor: end;
+  x: 100%-20;
+  y: 100%-175;
+  fill: white;
+}
+
+#minute {
+  font-size: 130;
+  font-family: Tungsten-Medium;
+  text-length: 32;
+  text-anchor: end;
+  x: 100%-20;
+  y: 100%-65;
+  fill: white;
+}
+
+#date {
+  font-size: 36;
+  font-family: Tungsten-Medium;
+  text-length: 32;
+  text-anchor: end;
+  fill: white;
+  x: 100%-20;
+  y: 100%-20;
+}
+
+.metrics {
+  font-size: 34;
+  font-family: Tungsten-Medium;
+  text-length: 32;
+  text-anchor: start;
+  fill: white;
+  x: 60;
+}
+
+
+#steps {
+  y: 50;
+}
+
+#elevation {
+  y: 90;
+}
+
+#distance {
+  y: 130;
+}
+
+#heartRate {
+  y: 170;
+}
