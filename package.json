@@ -13,18 +13,17 @@
     "appDisplayName": "Pixels",
     "iconFile": "resources/icon.png",
     "wipeColor": "#ffffff",
-    "requestedPermissions": [],
-    "buildTargets": [
-      "mira"
-    ],
-    "i18n": {},
-    "defaultLanguage": "en-US",
     "requestedPermissions": [
       "access_activity",
       "access_exercise",
       "access_heart_rate",
       "access_user_profile"
-    ]
+    ],
+    "buildTargets": [
+      "mira"
+    ],
+    "i18n": {},
+    "defaultLanguage": "en-US"
   },
   "scripts": {
     "build": "fitbit-build",
