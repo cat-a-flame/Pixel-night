@@ -5,5 +5,5 @@ Currently only showing the time, month and number of day, battery level and tota
 
 <img src="http://schatten.hu/temp/preview.png" alt="Pixel night"/>
 
-<a href="https://www.dafont.com/pixelmix.font">PixelMix</a> font from Andres Tyler.
+<a href="https://www.dafont.com/pixelmix.font">PixelMix</a> font from Andrew Tyler.
 
